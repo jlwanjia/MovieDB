@@ -1,2 +1,2 @@
 # MovieDB
- Movie table with Sqlite Studio
+ Sqlite Studio
